@@ -1,5 +1,6 @@
 //Warning defillant text is here 
-//No color:(
+//No color
+//Version 0.1
 #include <iostream>
 #include <windows.h>
 
